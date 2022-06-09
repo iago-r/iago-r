@@ -1,5 +1,7 @@
 Links that helps in creating a GitHub profile page
 
+https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645
+
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 https://github.com/anuraghazra/github-readme-stats/edit/master/readme.md
 https://github.com/anuraghazra/github-readme-stats/issues/689-->
