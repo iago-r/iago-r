@@ -21,9 +21,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisi enim,
 ## 
 > *Banner photo by [Umberto](https://unsplash.com/@umby?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
-<<<<<<< HEAD
 <!--
-=======
->>>>>>> 4da7385dca822f5b0e3196f9c9b359ee4ed8af22
 > *Icon created from a photo by [Chris Ried](https://unsplash.com/@cdr6934?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/code?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 -->
