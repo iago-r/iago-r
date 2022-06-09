@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/iago-r">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iago-r&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=false&bg_color=#000000'"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iago-r&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago-r&layout=compact&langs_count=7&theme=ayu-mirage"/>
+    
 </div>
