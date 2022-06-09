@@ -5,8 +5,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisi enim,
 
 ## [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iago.srios/)
 
-## Greetings!
- - 🌱 I’m currently learning ...
+## Personal stuff
+ - 🌱 I’m currently learning C, C++ and Data Structures
  - 💬 *“From a drop of water a logician could infer <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the possibility of an Atlantic or a Niagara"*
 <!-- - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf). -->
 
