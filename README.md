@@ -7,7 +7,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisi enim,
 ---
 
 ## Greetings!
-- 🌱 I’m currently learning ...
+ - 🌱 I’m currently learning ...
+ - 💬 *“From a drop of water a logician could infer <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the possibility of an Atlantic or a Niagara"*
 <!-- - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf). -->
 
 
