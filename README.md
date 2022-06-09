@@ -21,6 +21,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   5 hrs 17 mins   █████████████████▓░░░░░░░   70.18 %
+JavaScript   1 hr 16 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+Markdown     30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+JSON         27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```
+
+<!--END_SECTION:waka-->
+
+
 <div align="center">
   <a href="https://github.com/iago-r">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iago-r&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=false&bg_color=#000000'"/>
