@@ -30,7 +30,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/iago-r">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iago-r&show_icons=true&icon_color=F9E79F&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&theme=noctis_minimus"/>
   <!--<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago-r&layout=compact&langs_count=7&theme=ayu-mirage"/>-->
-  <!--VER https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md e https://github.com/anuraghazra/github-readme-stats/edit/master/readme.md-->
+  <!--VER https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+    e https://github.com/anuraghazra/github-readme-stats/edit/master/readme.md
+    e https://github.com/anuraghazra/github-readme-stats/issues/689-->
   </a>
 </div>
 
