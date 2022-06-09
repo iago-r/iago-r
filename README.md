@@ -8,6 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisi enim,
 
 ## Greetings!
 - 🌱 I’m currently learning ...
+<!-- - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf). -->
 
 
 <div align="center">
