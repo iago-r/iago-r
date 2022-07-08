@@ -7,7 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisi enim,
 
 ## Personal stuff
  - 🌱 I’m currently learning C, C++ and Data Structures
- - 💬 *“From a drop of water a logician could infer <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the possibility of an Atlantic or a Niagara"*
+ - 💬 *“From a drop of water a logician could infer <!--<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->the possibility of an Atlantic or a Niagara"*
 <!-- - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf). -->
 
 ## 
