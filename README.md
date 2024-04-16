@@ -3,7 +3,7 @@
 ## Greetings!
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisi enim, pretium vel sem ac, tristique accumsan ipsum. Aliquam diam ex, vestibulum pretium mollis in, egestas ac magna. Praesent eleifend, velit at vestibulum aliquam, nibh leo ultricies risus, quis mattis magna nisl eget justo. Maecenas id mi non lectus vehicula ultricies. Donec auctor semper urna, quis elementum nunc faucibus vel. Vivamus ornare suscipit vestibulum.
 
-## [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iago.srios/)
+## [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/)
 
 ## Personal stuff
  - 🌱 I’m currently learning C++, HTML and CSS
