@@ -1,12 +1,13 @@
 [![Header](https://raw.githubusercontent.com/iago-r/iago-r/main/images/readme_header.png "Header")](https://github.com/iago-r)
 
-## Greetings!
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisi enim, pretium vel sem ac, tristique accumsan ipsum. Aliquam diam ex, vestibulum pretium mollis in, egestas ac magna. Praesent eleifend, velit at vestibulum aliquam, nibh leo ultricies risus, quis mattis magna nisl eget justo. Maecenas id mi non lectus vehicula ultricies. Donec auctor semper urna, quis elementum nunc faucibus vel. Vivamus ornare suscipit vestibulum.
+## 
 
-## [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/)
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nisi enim, pretium vel sem ac, tristique accumsan ipsum. Aliquam diam ex, vestibulum pretium mollis in, egestas ac magna. Praesent eleifend, velit at vestibulum aliquam, nibh leo ultricies risus, quis mattis magna nisl eget justo. Maecenas id mi non lectus vehicula ultricies. Donec auctor semper urna, quis elementum nunc faucibus vel. Vivamus ornare suscipit vestibulum. -->
 
-## Personal stuff
- - 🌱 I’m currently learning C++, HTML and CSS
+<!-- ## [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/) -->
+
+<!--## Personal stuff  -->
+ - 🌱 I’m currently learning C, C++, Java, HTML and CSS
  - 💬 *“From a drop of water a logician could infer <!--<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->the possibility of an Atlantic or a Niagara"*
 <!-- - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf). -->
 
